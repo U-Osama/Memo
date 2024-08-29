@@ -1,0 +1,132 @@
+       
+       .sec1
+   {display: flex;
+   justify-content: center;
+}
+
+ .form-control 
+ { 
+    width: 500px;
+ }
+.meem
+{  
+position: relative;
+left: 25%;
+background-color: rgb(128,31,79,.8);
+width: 15%;       height: 10%; 
+border-radius: 40px;
+text-align: center;
+
+}
+
+.sec2
+{
+   display: flex;
+justify-content: flex-end;
+}
+.spinner-grow
+ {   position: relative;
+   top: -50px;
+left: 80px;
+margin-left: 10px;}
+
+.carousel 
+{
+   width: 100%;
+   height: 60%;
+}
+.d-block
+{ 
+   width: 100%;
+   height:100%;
+}
+.carousel-caption
+{
+   background-color: silver;
+   color:rgb(10,88,202) ;
+    width: 10%;
+     margin:auto;
+     border-radius: 60px;
+ 
+}
+.visually-hidden
+{
+   transition: all 3s;
+}
+.visually-hidden:hover
+{
+   background-color: white;
+}
+ .carousel-indicators  button
+
+{
+    background-color: rgb(23,40,50);
+    height: 15px;
+    width: 15px;
+    border-radius: 30%;
+    margin-left: 10px;
+}
+.carousel 
+{
+   background-color: rgb(23,40,50);
+
+}
+
+.w
+{
+   text-align: center;
+    margin: auto; 
+    color: aliceblue; 
+   background-color: rgb(128,31,79,.8);
+    width: 15%;       height: 6%; 
+    border-radius: 80%;
+}
+.sec4
+{
+   display: flex;
+   text-align: center;
+   position: relative;
+   left: 50px;
+   top: 90px;
+   width: 90%;
+}
+.pap
+{
+   width: 50%;
+   
+}
+
+.card 
+{
+   position: relative;
+   left: 70px;
+}
+
+.baking
+{   text-align: center;
+    margin:auto;
+    width: 90%;
+   position: relative;
+top: 140px;}
+.baking h1
+{font-size: 40px;
+padding : 60px 0px 0px 0px; }
+
+.baking-items
+{  width: 20%;
+    float: left;
+    padding:20px ;}
+.baking-items img
+{  width: 100%;
+   height: 30%;
+    padding: 15px;}
+
+
+.con
+{
+   background-color: rgb(128,31,79,.7);
+   width: 100%;
+   height: 10%;
+   position: relative;
+   top: 150px;
+}
